@@ -5,12 +5,15 @@ class Config(Config):
     APP_ID = 1733305 #imp
     API_HASH = "f423cffca6b5b7247b31b5b0df61f48d" #imp
     AUTH_CHANNEL = [-1001377338298, 1156597097] #imp replace your_id with your id from telegram or delete
-    GLEECH_COMMAND = "gleech"
-    YTDL_COMMAND = 'ytdl'
-    TELEGRAM_LEECH_COMMAND_G = "tleech"
+    GLEECH_COMMAND = "gleech@Sprittorbot"
+    YTDL_COMMAND = 'ytdl@Sprittorbot'
+    TELEGRAM_LEECH_COMMAND_G = "tleech@Sprittorbot"
     CLONE_COMMAND_G = "gclone"
-    PYTDL_COMMAND_G = "pytdl"
-    LEECH_COMMAND = "leech"
+    PYTDL_COMMAND_G = "pytdl@Sprittorbot"
+    LEECH_COMMAND = "leech@Sprittorbot"
+    SAVE_THUMBNAIL = "savethumbnail@Sprittorbot"
+    CLEAR_THUMBNAIL = "clearthumbnail@Sprittorbot"
+    TELEGRAM_LEECH_COMMAND_G = "tleech@Sprittorbot"
     INDEX_LINK = "https://toxik.suniljeyawardana.workers.dev/0:"
     RCLONE_CONFIG = """
 [Kavindu aj]
