@@ -10,6 +10,5 @@ class Config(Config):
     TELEGRAM_LEECH_COMMAND_G = "tleech"
     CLONE_COMMAND_G = "gclone"
     PYTDL_COMMAND_G = "pytdl"
-    DESTINATION_FOLDER = "Download"
     LEECH_COMMAND = "leech"
     INDEX_LINK = "https://toxik.suniljeyawardana.workers.dev/0:"
