@@ -1,10 +1,10 @@
 from tobrot.sample_config import Config
 
 class Config(Config):
-    TG_BOT_TOKEN= "1436730490:AAFpVNY8ki0nzaLW8jotAQdca7bd3qAf2Zs" #imp
-    APP_ID = 1383845 #imp
-    API_HASH = "0e3d2c299cc3c5cc26c283cecd2eb97c" #imp
-    AUTH_CHANNEL = [-1001377338298, 1131653685] #imp replace your_id with your id from telegram or delete
+    TG_BOT_TOKEN= "1650920497:AAFSZ2slYjbl1gWyF_gqZwK5FMNv4oF6__8" #imp
+    APP_ID = 1733305 #imp
+    API_HASH = "f423cffca6b5b7247b31b5b0df61f48d" #imp
+    AUTH_CHANNEL = [-1001377338298, 1156597097] #imp replace your_id with your id from telegram or delete
     GLEECH_COMMAND = "gleech"
     YTDL_COMMAND = 'ytdl'
     TELEGRAM_LEECH_COMMAND_G = "tleech"
