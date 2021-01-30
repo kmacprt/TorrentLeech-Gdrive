@@ -1,5 +1,5 @@
 class Config(Config):
-    TG_BOT_TOKEN= "1650920497:AAFSZ2slYjbl1gWyF_gqZwK5FMNv4oF6__8" #imp
+    TG_BOT_TOKEN= "1436730490:AAFpVNY8ki0nzaLW8jotAQdca7bd3qAf2Zs" #imp
     APP_ID = 1733305 #imp
     API_HASH = "f423cffca6b5b7247b31b5b0df61f48d" #imp
     AUTH_CHANNEL = [-1001377338298, 1156597097] #imp replace your_id with your id from telegram or delete
