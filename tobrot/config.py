@@ -1,3 +1,5 @@
+from tobrot.sample_config import Config
+
 class Config(Config):
     TG_BOT_TOKEN= "1436730490:AAFpVNY8ki0nzaLW8jotAQdca7bd3qAf2Zs" #imp
     APP_ID = 1383845 #imp
